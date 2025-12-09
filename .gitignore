@@ -31,3 +31,4 @@ coverage/
 # Misc
 *.tmp
 *.temp
+backend/data/truestate_assignment_dataset.csv
